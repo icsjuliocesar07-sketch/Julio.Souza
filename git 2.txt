@@ -1,0 +1,7 @@
+https://github.com/icsjuliocesar07-sketch/Julio.Souza.git
+
+icsjuliocesar07
+icsjuliocesar07@gmail.com
+
+git config --global user.name "icsjuliocesar07"
+git config --global user.email "icsjuliocesar07@gmail.com"
