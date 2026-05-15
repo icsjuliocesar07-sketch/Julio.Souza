@@ -5,3 +5,5 @@ icsjuliocesar07@gmail.com
 
 git config --global user.name "icsjuliocesar07"
 git config --global user.email "icsjuliocesar07@gmail.com"
+
+git remote add origin https://github.com/icsjuliocesar07-sketch/Julio.Souza.git
